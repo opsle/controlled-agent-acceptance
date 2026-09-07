@@ -1,5 +1,7 @@
 # Controlled Agent Acceptance
 
+> Retired as a separate repository on 2026-09-07. Continued in [Opsle Tasks](https://github.com/opsle/tasks/tree/main/docs/contracts/controlled-agent-acceptance). Specifications, provenance, licenses and any prototype tests were preserved from `2d652adf56e53953327d09b1ba9c4a9c3445f052`. See the [migration manifest](https://github.com/opsle/tasks/blob/main/docs/migrations/20260907-consolidation.md) for implementation mapping and rollback. Historical material below describes the original experiment.
+
 > Experimental Opsle research. Claims are hypotheses until evidence supports them.
 
 ## Problem
